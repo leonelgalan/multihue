@@ -29,7 +29,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://leonelgalan.github.io/multihue",
+  "homepage": "https://leonelgalan.github.io/multihue",
   "reactToolbox": {
     "include": [
       "LAYOUT",
